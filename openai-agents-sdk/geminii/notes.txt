@@ -1,0 +1,40 @@
+
+
+#---uv : we use uv to manage the project---
+# 1- create a new project
+# uv init --package project_name
+# go in to the project
+# cd project_name
+# check weather the project is created and running
+# uv run project_name
+
+#---------------------------------------------------
+
+#  2- now in the project there is src folder and in the src folder there is a folder called project and in the project folder there is a file called main.py
+#we will use this file to write the code for the project
+# another file will be created in the project and created the .env file and in the .env file we will write the api key for the project and the model name
+
+#---------------------------------------------------
+
+# 3- install the dependencies
+#uv add openai-sdk
+#uv add dotenv
+#uv sync
+
+#---------------------------------------------------
+#these packages will be installed in the toml file
+#---------------------------------------------------
+
+
+#---uv venv : we use uv venv to create a virtual environment---
+# uv venv
+# uv run python --version
+# uv run python -m pip --version
+
+
+# 3- run the project
+#uv run agentic-ai
+#uv run agentic-ai:agent
+#uv run agentic-ai:agent_manager
+#uv run agentic-ai:agent_controller
+
