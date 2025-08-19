@@ -154,7 +154,7 @@ Replace the contents of `main.py` with:
 
 ```python
 def main():
-    print("Hello from my-simple-app! — Hassan, PIAIC")
+    print("Hello from my-simple-app! — Safwan from NTU")
 
 if __name__ == "__main__":
     main()
@@ -173,7 +173,7 @@ uv run python main.py
 **Expected output:**
 
 ```
-Hello from my-simple-app! — Hassan, PIAIC
+Hello from my-simple-app! — Safwan 
 ```
 
 _(If you activated the environment in Step 2.1, running `python main.py` also works.)_
