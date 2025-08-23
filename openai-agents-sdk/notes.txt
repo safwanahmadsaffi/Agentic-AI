@@ -1,3 +1,12 @@
+# uv is a project manager tool!
+#---------------------------------
+# 2 ways to create project with uv!
+
+# 1- uv init --package project_name #with package
+# 2- uv init project_name #without package
+
+#-----------------------------
+
 #---uv : we use uv to manage the project---
 # 1- create a new project
 # uv init --package project_name

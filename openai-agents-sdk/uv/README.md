@@ -1,5 +1,6 @@
 # Simple Application with `uv`
 
+
 ## 1. Overview
 
 A **simple application** in `uv` is a Python project without the overhead of packaging. It’s just a folder containing scripts, managed entirely by `uv` for dependencies and environment.
