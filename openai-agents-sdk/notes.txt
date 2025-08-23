@@ -1,5 +1,3 @@
-
-
 #---uv : we use uv to manage the project---
 # 1- create a new project
 # uv init --package project_name
